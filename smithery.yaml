@@ -1,0 +1,7 @@
+startCommand:
+  type: stdio
+  commandFunction: |
+    () => ({
+      command: 'python',
+      args: ['-m', 'tcmb_mcp_server.server']
+    })
