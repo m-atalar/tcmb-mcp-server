@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/tcmb-mcp-server",
+  "homepage": "https://github.com/m-atalar/tcmb-mcp-server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/tcmb-mcp-server.git"
+    "url": "https://github.com/m-atalar/tcmb-mcp-server.git"
   },
   "categories": ["finance", "data", "turkey"],
   "keywords": ["tcmb", "exchange", "currency", "turkey", "turkish", "döviz", "kur"],
